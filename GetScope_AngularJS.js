@@ -1,20 +1,30 @@
 /*******************************************************************************
+Gets a reference to the scope of the selected element. Allows you to inspect and 
+make changes to the scope data and functions, 
+
 Examples:
+
+Selecting and element:
+-----------------------
 
 After inspecting an element in devtools, the element becomes available via $0
 
 var scopeRef = angular.element($0).scope();
 
-Use a CSS selector with document.querySelector()
-
+You can use a CSS selector with document.querySelector()
+Selecting by class name:
 var el = document.querySelector(".className");
-OR SELECT BY ID
+
+Selecting by id:
 var el = document.querySelector("#idName");
-OR SELECT BY HTML TAG NAME
+
+Selecting by HTML tag name:
 var el = document.querySelector("htmlTagName");
-OR SELECT BY ATTRIBUTE NAME
+
+Selecting by attribute name:
 var el = document.querySelector("[attr]");
-OR SELECT BY ATTRIBUTE NAME AND VALUE
+
+Selecting by attribute name and value:
 var el = document.querySelector("[attr=val]");
 *********************************************************************************/
 

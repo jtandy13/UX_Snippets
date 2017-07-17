@@ -1,4 +1,4 @@
-/*
+/* Test Update
  * Log all AngularJS $http request and response objects to the console
  * 1. Find the spInspector code.
  * 2. Replace the "request" function with the new "request" function below

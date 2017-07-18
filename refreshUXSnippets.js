@@ -1,4 +1,4 @@
-function() {
+(function() {
     var scripts;
     var scriptNames = [];
     function nameListener () {

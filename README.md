@@ -5,7 +5,7 @@ Devtools code snippets for troubleshooting
 In order to refresh the UX snippets, you must open a DevTools window for the current DevTools window and run the snippet from there.
 
 1. Press Command+Option+i (Ctrl+Shift+i on Windows) to open DevTools.
-2. Make sure that the developer tools are undocked into a new window. You may have to undock from the menu: Undock from menu
+2. Make sure that the developer tools are undocked into a new window. You may have to undock from the menu at the top right.
 3. Press Command+Option+i again on this new window.
 4. Run refreshUXSnippets.js from the new DevTools window.
 

@@ -9,7 +9,7 @@ In order to refresh the UX snippets, you must open a DevTools window for the cur
 3. Press Command+Option+i again on this new window.
 4. Run refreshUXSnippets.js from the new DevTools window.
 
-Undocking DevTools:
+Undocking DevTools:  
 ![Screenshot](https://user-images.githubusercontent.com/22809154/28351516-c9283586-6c93-11e7-8ccb-2505fb6902c6.png)
 
 That will open the DevTools on the DevTools.

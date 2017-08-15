@@ -1,6 +1,6 @@
 /*
  * Log all AngularJS $http request and response objects to the console
- * 1. Find the spInspector code.
+ * 1. Search for the spInterceptor code.
  * 2. Replace the "request" function with the new "request" function below
  * 3. Save the file.
  * 4. Replace the "response" function with the new "response" function below
